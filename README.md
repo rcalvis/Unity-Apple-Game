@@ -21,19 +21,19 @@ The goal of the game is to collect as many apples as possible while avoiding haz
 - Unity
 - C#
 
-### Future Improvements
+## Future Improvements
 - Add multiple levels/increasing difficulty
 - Improve transitions
 - Add leaderboard system
 
-### Learning
+## Learning
 This project was a way to learn and practice:
 - Unity scene management
 - Game physics and collisions
 - C# scripting in Unity
 - General game development workflows
 
-### Author
+## Author
 Created by Rachel Alvis
 
 [GitHub](https://www.github.com/rcalvis)
